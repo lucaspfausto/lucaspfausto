@@ -22,15 +22,6 @@ Beyond traditional development, I have a strong interest in **Cybersecurity** fu
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaspfausto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Lucas's GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspfausto&layout=compact&theme=tokyonight&custom_title=Top_Languages&langs_count=6" alt="Top Languages" height="200"/>
-</p>
-
----
-
 ### 📫 Let's Connect
 
 - [🐝 Beecrowd](https://judge.beecrowd.com/en/profile/1186421)

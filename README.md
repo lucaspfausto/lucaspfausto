@@ -2,7 +2,7 @@
 
 **Computer Science Student** | `Backend Developer in the making`
 
-I'm a 3rd-period Computer Science student at UFCG (Federal University of Campina Grande, Brazil). I am a strong Linux enthusiast (daily driving Mint/Cinnamon) and I'm constantly looking to improve my skills in software engineering, architecture, and terminal automation.
+I'm a Computer Science student at UFCG (Federal University of Campina Grande, Brazil). I am a strong Linux enthusiast (daily driving Mint/Cinnamon) and I'm constantly looking to improve my skills in software engineering, architecture, and terminal automation.
 
 Currently, my main focus is **Backend Development**. I'm diving deep into **Java** (exploring Object-Oriented Programming, polymorphism, interfaces, and writing solid unit tests with JUnit), while expanding my logical skills with **Python**.
 

@@ -25,4 +25,4 @@ Beyond traditional development, I have a strong interest in **Cybersecurity** fu
 ### 📫 Let's Connect
 
 - [🐝 Beecrowd](https://judge.beecrowd.com/en/profile/1186421)
-- ✉️ Email: lucaspfausto@email.com
+- ✉️ Email: paulino.lucasf@gmail.com

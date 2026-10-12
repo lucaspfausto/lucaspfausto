@@ -26,4 +26,3 @@ Beyond traditional development, I have a strong interest in **Cybersecurity** fu
 
 - [🐝 Beecrowd](https://judge.beecrowd.com/en/profile/1186421)
 - ✉️ Email: lucasfausto2015@gmail.com
-
